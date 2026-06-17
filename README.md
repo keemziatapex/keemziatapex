@@ -5,7 +5,7 @@
   - [Cloud Provisioning - P2].().
   - [Role Assignments].().
   - [Group Assignments].().
-  - [Identity Lifecircle].().
+  - [Identity Lifecycle].().
   - [Audit Logs].().
   - [Sign-in Logs].().
   - [Authentication].().

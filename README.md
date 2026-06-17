@@ -1,16 +1,11 @@
-## Hi there 👋
+<h1>Hi, I'm Hakeem, a cybersecurity, IAM Azure Associate</a>0</h1>
 
-<!--
-**keemziatapex/keemziatapex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Microsoft Azure Entra ID</b>
+  - [Creating Users in Entra ID].()
+  - [Cloud Provisioning - P2].()
+  - [Role Assignments].()
+  - [Group Assignments].()
+  - [Identity Lifecircle].()
+  - [Audit Logs].()
+  - [Sign-in Logs].()
+  - [Authentication].()

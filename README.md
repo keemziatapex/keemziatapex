@@ -7,5 +7,5 @@
  - [Group Assignments](https://github.com/keemziatapex/Group-Assignments)
  - [Identity Lifecycle](https://github.com/keemziatapex/Identity-Lifecycle)
  - [Audit Logs](https://github.com/keemziatapex/Audit-Logs)
- - [Sign-In Logs]()
+ - [Sign-In Logs](https://github.com/keemziatapex/Sign-in-Logs)
  - [Authentication](https://github.com/keemziatapex/Authentication)

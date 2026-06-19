@@ -6,6 +6,6 @@
  - [Role Assignments](https://github.com/keemziatapex/Role-Assignments-Repository)
  - [Group Assignments](https://github.com/keemziatapex/Group-Assignments/blob/main/README.md)
  - [Identity Lifecycle](https://github.com/keemziatapex/Identity-Lifecycle)
- - [Audit Logs]()
+ - [Audit Logs](https://github.com/keemziatapex/Audit-Logs)
  - [Sign-In Logs]()
  - [Authentication]()

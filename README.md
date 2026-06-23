@@ -1,4 +1,4 @@
-<h1>Hi, I'm Hakeem, a Cybersecurity Specialist, IAM Azure Associate, these  </a>☺</h1>
+<h1>Hi, I'm Hakeem, a Cybersecurity Specialist, IAM Azure Associate, these project simulate real life activities of IAM Azure associate </a>☺</h1>
 
 - <b>Microsoft Azure Entra ID</b>
  - [Creating User's in Entra ID](https://github.com/keemziatapex/user-account)

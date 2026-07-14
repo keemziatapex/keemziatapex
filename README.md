@@ -20,7 +20,7 @@
  - [Importing Users from Microsoft Entra ID to Okta]()
  - [Enrollment of Provisioning in OKTA]()
  - [Creating Users in OKTA]()
- - [Adding Attributes to User's Profile]()
+ - [Adding Attributes to User's Profile](https://github.com/keemziatapex/Adding-Attributes-to-User-s-Profile)
  - [Creating Groups in OKTA Environment](https://github.com/keemziatapex/Group-Creation-in-OKTA-Environment)
  - [Using Attribute Base Access Control Rules in OKTA](https://github.com/keemziatapex/Attribute-Base-Access-Control-ABAC-Rules)
  - [Logs Audit in OKTA](https://github.com/keemziatapex/Logs-Audit)

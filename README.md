@@ -22,6 +22,6 @@
  - [Creating Users in OKTA]()
  - [Adding Attributes to User's Profile]()
  - [Creating Groups in OKTA Environment]()
- - [Using Attribute Base Access Control Rules in OKTA]()
+ - [Using Attribute Base Access Control Rules in OKTA](https://github.com/keemziatapex/Attribute-Base-Access-Control-ABAC-Rules)
  - [Logs Audit in OKTA](https://github.com/keemziatapex/Logs-Audit)
  

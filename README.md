@@ -17,7 +17,7 @@
 
 
 - <b>Third-Party IAM and IGA Administration with OKTA</b>
- - [Importing Users from Microsoft Entra ID to Okta]()
+ - [Importing Users from Microsoft Entra ID to Okta](https://github.com/keemziatapex/Import-Users-from-Microsoft-Entra-ID)
  - [Enrollment of Provisioning in OKTA](https://github.com/keemziatapex/Enrollment-of-Provisioning)
  - [Creating Users in OKTA](https://github.com/keemziatapex/Creating-Users-in-OKTA)
  - [Adding Attributes to User's Profile](https://github.com/keemziatapex/Adding-Attributes-to-User-s-Profile)

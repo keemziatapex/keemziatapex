@@ -24,4 +24,4 @@
  - [Creating Groups in OKTA Environment]()
  - [Using Attribute Base Access Control Rules in OKTA]()
  - [Logs Audit in OKTA]()
- - [Device Management Using OKTA]() 
+ 

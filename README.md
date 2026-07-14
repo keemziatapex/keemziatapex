@@ -23,5 +23,5 @@
  - [Adding Attributes to User's Profile]()
  - [Creating Groups in OKTA Environment]()
  - [Using Attribute Base Access Control Rules in OKTA]()
- - [Logs Audit in OKTA]()
+ - [Logs Audit in OKTA](https://github.com/keemziatapex/Logs-Audit)
  
